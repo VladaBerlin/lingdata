@@ -1,4 +1,3 @@
-Id	Word			Lemma			Pos		(Extra)		Features	HeadPosition	Relation	_	(EverythingElse)						
 1	В				в				ADP		_			_	_	words@bvk1982m#@bvk-1982m#2.14#2.378	_	_
 2	вашей			ваш				DET		_			Case=Gen|Gender=Fem|Number=Sing		_	words@bvk1982m#@bvk-1982m#2.378#2.712	_	_
 3	судьбе			судьба			NOUN	_			Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing				_	words@bvk1982m#@bvk-1982m#2.712#3.046	_	_
