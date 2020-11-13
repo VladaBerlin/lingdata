@@ -356,7 +356,7 @@
 356	химиотерапия	химиотерапия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_356	_	words@aaw1952m#@aaw1952m#115.284#116.55
 357	гарантировала	гарантировать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=P357ast|VerbForm=Fin|Voice=Act	_	_	_	words@aaw1952m#@aaw1952m#116.55#117.394
 358	что	что	SCONJ	_	_	_	_	_	words@aaw1952m#@aaw1952m#117.394#117.93589
-359	митостазов	митостаз	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	_	_	359_	words@aaw1952m#@aaw1952m#117.99#118.361
+359	метостазов	метостаз	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	_	_	359_	words@aaw1952m#@aaw1952m#117.99#118.361
 360	нет	нет	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Ve360rbForm=Fin|Voice=Act	_	_	_	words@aaw1952m#@aaw1952m#118.361#118.733
 361	/	/	PUNCT	_	_	_	_	_	words@aaw1952m#@aaw1952m#118.733361#118.972
 362	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	_	_	_	wo362rds@aaw1952m#@aaw1952m#118.972#119.873
@@ -616,7 +616,7 @@
 616	восемьдесят	восемьдесят	NUM	_	Case=Nom	_	_	_	words@aaw1952m#@aaw1952m#309.662#361610.227
 617	первом	первый	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	words@617aaw1952m#@aaw1952m#310.227#311.415
 618	году	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_618	words@aaw1952m#@aaw1952m#311.415#312.818
-619	Всесоюзная	всесоюзный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	words@a619aw1952m#@aaw1952m#312.818#313.35
+619	всесоюзная	всесоюзный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	words@a619aw1952m#@aaw1952m#312.818#313.35
 620	высшая	высший	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	words@620aaw1952m#@aaw1952m#313.35#314.532
 621	аттестационная	аттестационный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	words@a621aw1952m#@aaw1952m#314.532#315.642
 622	комиссия	комиссия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_622	_	words@aaw1952m#@aaw1952m#315.642#315.935
@@ -797,4 +797,4 @@
 797	устраивает	устраивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|797VerbForm=Fin|Voice=Act	_	_	_	words@aaw1952m#@aaw1952m#452.779#453.844
 798	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	798_	words@aaw1952m#@aaw1952m#453.844#454.019
 799	что	что	PRON	_	Case=Nom	_	_	_	words@aaw1952m#@aaw1952m#454.079919#454.311
-800	получилось	получиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=P800ast|VerbForm=Fin|Voice=Mid				words@aaw1952m#@aaw1952m#454.311#454.989
+800	получилось	получиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=P800ast|VerbForm=Fin|Voice=Mid _ _ _ words@aaw1952m#@aaw1952m#454.311#454.989
