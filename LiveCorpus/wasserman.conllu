@@ -785,7 +785,7 @@
 785	существенно	существенно	ADV	_	Degree=Pos	_	_	_	words@aaw1952m#@aaw1952m#445.941#478546.993
 786	изменить	изменить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	words@a786aw1952m#@aaw1952m#446.993#447.701
 787	его	его	DET	_	_	_	_	_	words@aaw1952m#@aaw1952m#447.701#448.032787
-788	жизнь	жизнь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_788	words@aaw1952m#@aaw1952m#448.032#448.447
+788	жизнь	жизнь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	words@aaw1952m#@aaw1952m#448.032#448.447
 789	/	/	PUNCT	_	_	_	_	_	words@aaw1952m#@aaw1952m#448.447789#448.863
 790	просто	просто	PART	_	_	_	_	_	words@aaw1952m#@aaw1952m#448.863#449790.475
 791	потому	потому	ADV	_	Degree=Pos	_	_	_	words@aaw1952m#@aaw1952m#449.475791#449.928
@@ -795,6 +795,6 @@
 795	в	в	ADP	_	_	_	_	_	words@aaw1952m#@aaw1952m#451.85#452.117956
 796	основном	основной	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	wo796rds@aaw1952m#@aaw1952m#452.116#452.779
 797	устраивает	устраивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|797VerbForm=Fin|Voice=Act	_	_	_	words@aaw1952m#@aaw1952m#452.779#453.844
-798	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	798_	words@aaw1952m#@aaw1952m#453.844#454.019
+798	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@aaw1952m#@aaw1952m#453.844#454.019
 799	что	что	PRON	_	Case=Nom	_	_	_	words@aaw1952m#@aaw1952m#454.079919#454.311
-800 получилось  получиться  VERB  _ Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=P800ast|VerbForm=Fin|Voice=Mid _ _ _ words@aaw1952m#@aaw1952m#454.311#454.989
+800	получилось	получиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid  _	_	_	words@aaw1952m#@aaw1952m#454.311#454.989
