@@ -1,8 +1,8 @@
 1  	В	в	ADP	_	_	_	_	_	words@bvk1982m#@bvk-1982m#2.14#2.3781  
-2  	вашей	ваш	DET	_	Case=Loc|Gender=Fem|Number=Sing	_	_	_	words@bvk1982  2m#@bvk-1982m#2.378#2.712
-3  	судьбе	судьба	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	w3  ords@bvk1982m#@bvk-1982m#2.712#3.046
-4  	случались	случаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbFor4  m=Fin|Voice=Mid	_	_	_	words@bvk1982m#@bvk-1982m#3.046#3.49
-5  	моменты	момент	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	_	_	_	w5  ords@bvk1982m#@bvk-1982m#3.49#3.766
+2  	вашей	ваш	DET	_	Case=Loc|Gender=Fem|Number=Sing	_	_	_	words@bvk1982m#@bvk-1982m#2.378#2.712
+3  	судьбе	судьба	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	words@bvk1982m#@bvk-1982m#2.712#3.046
+4  	случались	случаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	words@bvk1982m#@bvk-1982m#3.046#3.49
+5  	моменты	момент	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	_	_	_	words@bvk1982m#@bvk-1982m#3.49#3.766
 6  	/	/	PUNCT	_	_	_	_	_	words@bvk1982m#@bvk-1982m#3.766#6  4.042
 7  	когда	когда	SCONJ	_	_	_	_	_	words@bvk1982m#@bvk-1982m#4.042#4.7  414
 8  	вам	вы	PRON	_	Case=Dat|Number=Plur|Person=2	_	_	_	words@bvk8  1982m#@bvk-1982m#4.414#4.637
@@ -797,4 +797,4 @@
 797	устраивает	устраивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|797VerbForm=Fin|Voice=Act	_	_	_	words@aaw1952m#@aaw1952m#452.779#453.844
 798	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	798_	words@aaw1952m#@aaw1952m#453.844#454.019
 799	что	что	PRON	_	Case=Nom	_	_	_	words@aaw1952m#@aaw1952m#454.079919#454.311
-800	получилось	получиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=P800ast|VerbForm=Fin|Voice=Mid _ _ _ words@aaw1952m#@aaw1952m#454.311#454.989
+800	получилось	получиться	VERB	_ Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=P800ast|VerbForm=Fin|Voice=Mid	_	_	_	words@aaw1952m#@aaw1952m#454.311#454.989
