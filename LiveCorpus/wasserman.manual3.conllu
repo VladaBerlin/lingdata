@@ -184,7 +184,7 @@
 184	как	как	ADV	_	Degree=Pos	_	_	_	words@aaw1952m#@aaw1952m#13.793#14.038
 185	вам	вы	PRON	_	Case=Dat|Number=Plur|Person=2	_	_	_	words@aaw1952m#@aaw1952m#14.038#14.226
 186	сказать	сказать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	words@aaw1952m#@aaw1952m#14.226#14.796
-187	//	//	PUNCT	_	_	_	_	_ words@aaw1952m#@aaw1952m#14.796#15.613
+187	//	//	PUNCT	_	_	_	_	_	words@aaw1952m#@aaw1952m#14.796#15.613
 188	серьезная	серьезный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	words@aaw1952m#@aaw1952m#15.613#16.256
 189	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@aaw1952m#@aaw1952m#16.256#16.899
 190	не	не	PART	_	_	_	_	_	words@aaw1952m#@aaw1952m#16.899#17.16
